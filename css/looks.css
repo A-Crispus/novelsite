@@ -1,0 +1,30 @@
+.logo{
+    float: left;
+
+}
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: red;
+    color: white;
+    text-align: center;
+    margin-top: 200px;
+}
+.fnt{
+    font-size:medium;
+}
+
+{
+    color: #333;
+    font-size: 16px;
+    line-height: 26px;
+}
+.err{
+    text-align: center;
+}
+.clr{
+    background-color: rosybrown;
+    margin: 0 auto;
+}
